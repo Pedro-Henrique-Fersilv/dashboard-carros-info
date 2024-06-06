@@ -88,7 +88,7 @@ $ pip install pandas plotly streamlit
 Execute este comando no seu terminal, para iniciar a aplicação em Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run carros-Info.py
 ```
 
 
