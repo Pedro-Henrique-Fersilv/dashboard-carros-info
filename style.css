@@ -1,0 +1,91 @@
+header[data-testid="stHeader"]{
+    background-color: rgb(30, 30, 30);
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+/*Background do dashboard*/
+.st-emotion-cache-bm2z3a{
+    background-color: rgb(30, 30, 30);
+}
+
+/*Ajustando padding da tela principal*/
+.st-emotion-cache-1jicfl2{
+    padding: 2rem;
+    padding-left: 3rem;
+}
+
+/*Ajustando padding da sidebar*/
+.st-emotion-cache-dvne4q{
+    padding-top: 2rem;
+    padding-bottom: 10px;
+}
+
+/*Background da sidebar*/
+section[data-testid="stSidebar"]{
+    background-color: rgb(20, 20, 20);
+}
+
+/*Cor do h2 sidebar*/
+section[data-testid="stSidebar"] h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+/*Cor do p sidebar*/
+section[data-testid="stSidebar"] p{
+    color: rgba(255, 255, 255, 0.836);
+}
+
+/*Cor do selectbox da sidebar*/
+.stSelectbox div[data-baseweb="select"] *{
+    background-color: rgb(172, 42, 42);
+    border-radius: 8px;
+    color: black;
+}
+
+/*Cor do dropdown da selectbox*/
+.st-b6{
+    color: black;
+    background-color: rgba(172, 42, 42, 0.8);
+}
+
+.st-b6:hover{
+    background-color: rgb(111, 25, 25);
+    color: rgb(230, 230, 230);
+}
+
+/*Cor da barra de rolagem do dropdown*/
+.st-bb{
+    background-color: rgba(172, 42, 42, 0.8);
+}
+
+/*Assinatura sidebar*/
+.st-emotion-cache-ul70r3 > p{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 13px;
+    font-family:'Times New Roman';
+}
+
+/*ACIDENTES*/
+.st-emotion-cache-115gedg{
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    padding-left: 40px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+
+/*OUTROS*/
+.st-emotion-cache-1r6slb0{
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    padding-left: 40px;
+    padding-top: 30px;
+    border-radius: 15px; 
+}
